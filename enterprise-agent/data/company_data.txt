@@ -1,0 +1,22 @@
+Company Name: Acme Technologies
+
+About:
+Acme Technologies is a software company specializing in enterprise automation.
+
+HR Policy:
+Employees receive 20 paid leaves per year.
+Work from home is allowed 3 days a week.
+
+Refund Policy:
+Refund requests are allowed within 30 days of purchase.
+
+Customer Support SOP:
+Critical issues must be resolved within 4 hours.
+Normal issues should be resolved within 24 hours.
+
+Technology Stack:
+Backend: Python, FastAPI, PostgreSQL
+Frontend: React, Next.js
+
+Mission:
+To automate enterprise workflows using AI.
